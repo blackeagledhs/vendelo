@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+ps4:
+  title: Ps4
+  description: problema en lectora
+  price: 150
+
+switch:
+  title: Nintendo Switch
+  description: problema sd
+  price: 200

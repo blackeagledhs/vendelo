@@ -1,0 +1,16 @@
+current directory: /home/blackeagle/projects/rorprojects/vendelo/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20231125-8852-i73l3r.rb extconf.rb
+creating Makefile
+
+current directory: /home/blackeagle/projects/rorprojects/vendelo/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/blackeagle/projects/rorprojects/vendelo/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/blackeagle/projects/rorprojects/vendelo/vendor/bundle/ruby/3.0.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20231125-8852-3l10jq/debug
